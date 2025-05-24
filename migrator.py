@@ -1,3 +1,5 @@
+# Gran Jacob S.A.S – granjacob.com
+
 from sqlalchemy import create_engine, MetaData, text
 from sqlalchemy.schema import CreateTable
 from sqlalchemy.dialects.mysql import ENUM as MySQLEnum
